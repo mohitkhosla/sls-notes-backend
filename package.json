@@ -13,7 +13,7 @@
     "aws-sdk": "^2.668.0",
     "jwt-decode": "^2.2.0",
     "moment": "^2.25.1",
-    "serverless-offline": "^3.25.17",
+    "serverless-offline": "^12.0.3",
     "underscore": "^1.9.1",
     "uuid": "^3.3.2"
   }
